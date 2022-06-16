@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @juancaalcaraz
-- 👀 I’m interested in Python, Javascript, React(i'm just learning about this) and Machine Learning   
-- 🌱 I’m currently learning React and Django
-- 💞️ I’m looking to collaborate on web projects and AI(although i'm just learning about this)
+- 👋 Hi, I’m @juancaalcaraz.
+- 👀 I’m interested in Python, Javascript, Data Scientist and Machine Learning.   
+- 🌱 I’m currently learning Django and studying data science and Artificial Intelligence. 
+- 💞️ I’m looking to collaborate on web projects and AI(although i'm just learning about this).
 - 📫 How to reach me. send my a e-mail: alcaraz_j@outlook.com
 
 <!---
